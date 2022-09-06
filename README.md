@@ -5,3 +5,4 @@ This project is a messaging application using Nosql(firebase) database. The user
 <p> 2- Personal (private) messaging can be created. </p>
 <p> 3- File sharing can be supported. </p>
 <p> 4- Maintaining profile information can be helpful. (Photo, situation, etc.) </p>
+[![Coverage Status](https://coveralls.io/repos/github/abdullah-altunkaynak/ReactNative-CodeTalks/badge.svg?branch=main)](https://coveralls.io/github/abdullah-altunkaynak/ReactNative-CodeTalks?branch=main)
