@@ -8,7 +8,7 @@ This project is a messaging application using Nosql(firebase) database. The user
 
 <h1> **** Used Technologies **** </h1>
 <ul>
-  <li> React Navigation -> https://reactnavigation.org/  </li>
+  <li style="color:blue;text-align:center;" > React Navigation -> https://reactnavigation.org/  </li>
   <li> Firebase (Realtime DB and Auth) -> https://rnfirebase.io/  </li>
   <li> Formik -> https://formik.org/docs/guides/react-native  </li>
   <li> modal -> https://github.com/react-native-modal/react-native-modal  </li>
